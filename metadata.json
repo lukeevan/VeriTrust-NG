@@ -1,0 +1,6 @@
+{
+  "name": "VeriTrust · Anti-Counterfeit & Product Verification",
+  "description": "Enterprise product verification and anti-counterfeit protection platform with live serial/QR verification, AI packaging forensics, cryptographic batch registry, and fraud telemetry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
